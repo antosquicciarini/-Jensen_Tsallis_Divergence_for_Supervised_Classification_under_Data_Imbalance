@@ -1,6 +1,6 @@
 # Jensen_Tsallis_Divergence_for_Supervised_Classification_under_Data_Imbalance
  
-The official code for the NeurIPS 2024 paper []()
+The official code for the paper: "Jensen_Tsallis_Divergence_for_Supervised_Classification_under_Data_Imbalance" submitted to ECLM 2025
 
 ## Environment Setup
 Create a conda environment, activate it, and install additional pip packages:
