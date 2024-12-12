@@ -1,0 +1,33 @@
+{
+    "dataset": ["MNIST"],
+    
+    "network": ["LeNet5"],
+
+    "batch_size": 128,
+    "test_batch_size": 1000,
+    "epochs": 50,
+    "optimizer": "SGD",
+    "loss_function":["cross_entropy_loss", "jensen_shannon_loss", "jensen_tsallis_loss", "BrierLoss", "MeanAbsoluteError", "focal_loss"],
+    
+    "lr": 0.01,
+    "momentum": 0.9,
+    "nesterov": true,
+
+    "weight_decay": 1e-4,
+        
+    "lr_policy": "lr_cos", 
+
+    "data_augmentation": true,
+
+    "data_imbalance": [true, false],
+    "data_imbalance_type": ["step", "linear"],
+    "data_imbalance_rho": [10, 25, 50, 100, 250, 500, 1000, 2500, 5000],
+    "data_imbalance_mu": [0.5],
+    "data_imbalance_ROS": true,
+    
+    "upload_best_parameters": true,
+
+    "seed": [18, 24, 29, 9, 21, 100, 101, 102, 103, 104],
+    "log_interval": 10,
+    "save_model": true
+}

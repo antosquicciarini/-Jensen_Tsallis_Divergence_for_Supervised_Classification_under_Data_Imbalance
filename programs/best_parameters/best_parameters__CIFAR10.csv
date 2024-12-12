@@ -1,0 +1,50 @@
+imb_type,imb_rho,imb_mu,lf,par
+No_one,0.0,0.0,BL,()
+No_one,0.0,0.0,CE,()
+No_one,0.0,0.0,CR,0.1
+No_one,0.0,0.0,FL,1.0
+No_one,0.0,0.0,JS,0.5
+No_one,0.0,0.0,JT,"(0.3, 4.0)"
+No_one,0.0,0.0,MAE,()
+linear,2.0,0.0,BL,()
+linear,2.0,0.0,CE,()
+linear,2.0,0.0,CR,0.1
+linear,2.0,0.0,FL,1.0
+linear,2.0,0.0,JS,0.5
+linear,2.0,0.0,JT,"(0.3, 4.0)"
+linear,2.0,0.0,MAE,()
+linear,10.0,0.0,BL,()
+linear,10.0,0.0,CE,()
+linear,10.0,0.0,CR,0.1
+linear,10.0,0.0,FL,1.0
+linear,10.0,0.0,JS,0.5
+linear,10.0,0.0,JT,"(0.5, 5.0)"
+linear,10.0,0.0,MAE,()
+linear,50.0,0.0,BL,()
+linear,50.0,0.0,CE,()
+linear,50.0,0.0,CR,0.1
+linear,50.0,0.0,FL,1.0
+linear,50.0,0.0,JS,0.7
+linear,50.0,0.0,JT,"(0.5, 7.0)"
+linear,50.0,0.0,MAE,()
+step,2.0,0.5,BL,()
+step,2.0,0.5,CE,()
+step,2.0,0.5,CR,0.1
+step,2.0,0.5,FL,1.0
+step,2.0,0.5,JS,0.5
+step,2.0,0.5,JT,"(0.5, 6.0)"
+step,2.0,0.5,MAE,()
+step,10.0,0.5,BL,()
+step,10.0,0.5,CE,()
+step,10.0,0.5,CR,0.1
+step,10.0,0.5,FL,1.0
+step,10.0,0.5,JS,0.5
+step,10.0,0.5,JT,"(0.5, 5.0)"
+step,10.0,0.5,MAE,()
+step,50.0,0.5,BL,()
+step,50.0,0.5,CE,()
+step,50.0,0.5,CR,0.1
+step,50.0,0.5,FL,1.0
+step,50.0,0.5,JS,0.7
+step,50.0,0.5,JT,"(0.5, 6.0)"
+step,50.0,0.5,MAE,()
